@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="EXTJS4.2Test:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/EXTJS4_2Test_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="EXTJS4.2Test/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="EXTJS4.2Test" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
