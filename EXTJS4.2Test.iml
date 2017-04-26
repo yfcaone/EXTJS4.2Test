@@ -326,5 +326,6 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="poi-3.2-FINAL-20081019" level="project" />
   </component>
 </module>
